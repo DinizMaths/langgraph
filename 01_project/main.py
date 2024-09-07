@@ -49,7 +49,7 @@ graph.get_graph().print_ascii()
 
 
 if __name__ == "__main__":
-    print("--- Hello LangGraph ---")
+    print("--- Hello Reflection Agent ---")
 
     inputs = HumanMessage(content="""Make this tweet better:
                           @LangChainAI
